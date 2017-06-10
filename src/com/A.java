@@ -1,5 +1,5 @@
 package com;
 
 public class A {
-    public  void print(){}
+    public  void print(int x){}
 }
